@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.uvg.lab11.app-mergeReleaseResources-57:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lordk\\.gradle\\caches\\transforms-4\\ffa2b5fd33f296ad8d89f35656b9b304\\transformed\\core-splashscreen-1.0.1\\res\\values-v29\\values-v29.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,374",
+                        "endLines": "6,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "369,464"
+                    }
+                }
+            ]
+        }
+    ]
+}

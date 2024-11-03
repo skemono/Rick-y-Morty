@@ -1,0 +1,2 @@
+#- File Locator -
+listingFile=../../../../../../../../Rick y Morty/release/output-metadata.json
